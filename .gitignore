@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+SkateboardSim/Saved/AutoScreenshot.png
+
+*.log
+
+SkateboardSim/Saved/Config/Windows/EditorPerProjectUserSettings.ini
