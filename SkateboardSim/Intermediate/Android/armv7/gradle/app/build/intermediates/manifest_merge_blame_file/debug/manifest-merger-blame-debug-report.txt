@@ -292,63 +292,63 @@
 150-->Z:\app\src\main\AndroidManifest.xml:44:50-70
 151
 152        <activity
-152-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:23:9-27:75
+152-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:23:9-27:75
 153            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-153-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:24:13-93
+153-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:24:13-93
 154            android:excludeFromRecents="true"
-154-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:25:13-46
+154-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:25:13-46
 155            android:exported="false"
-155-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:26:13-37
+155-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:26:13-37
 156            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-156-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:27:13-72
+156-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:27:13-72
 157        <!--
 158            Service handling Google Sign-In user revocation. For apps that do not integrate with
 159            Google Sign-In, this service will never be started.
 160        -->
 161        <service
-161-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:33:9-36:110
+161-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:33:9-36:110
 162            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-162-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:34:13-89
+162-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:34:13-89
 163            android:exported="true"
-163-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:35:13-36
+163-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:35:13-36
 164            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
-164-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:36:13-107
+164-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:36:13-107
 165
 166        <meta-data
-166-->[com.android.billingclient:billing:2.0.3] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\109982e594e5a2efdaac87080deb8bfd\billing-2.0.3\AndroidManifest.xml:13:9-15:37
+166-->[com.android.billingclient:billing:2.0.3] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\109982e594e5a2efdaac87080deb8bfd\billing-2.0.3\AndroidManifest.xml:13:9-15:37
 167            android:name="com.google.android.play.billingclient.version"
-167-->[com.android.billingclient:billing:2.0.3] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\109982e594e5a2efdaac87080deb8bfd\billing-2.0.3\AndroidManifest.xml:14:13-73
+167-->[com.android.billingclient:billing:2.0.3] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\109982e594e5a2efdaac87080deb8bfd\billing-2.0.3\AndroidManifest.xml:14:13-73
 168            android:value="2.0.3" />
-168-->[com.android.billingclient:billing:2.0.3] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\109982e594e5a2efdaac87080deb8bfd\billing-2.0.3\AndroidManifest.xml:15:13-34
+168-->[com.android.billingclient:billing:2.0.3] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\109982e594e5a2efdaac87080deb8bfd\billing-2.0.3\AndroidManifest.xml:15:13-34
 169
 170        <activity
-170-->[com.android.billingclient:billing:2.0.3] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\109982e594e5a2efdaac87080deb8bfd\billing-2.0.3\AndroidManifest.xml:17:9-20:75
+170-->[com.android.billingclient:billing:2.0.3] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\109982e594e5a2efdaac87080deb8bfd\billing-2.0.3\AndroidManifest.xml:17:9-20:75
 171            android:name="com.android.billingclient.api.ProxyBillingActivity"
-171-->[com.android.billingclient:billing:2.0.3] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\109982e594e5a2efdaac87080deb8bfd\billing-2.0.3\AndroidManifest.xml:18:13-78
+171-->[com.android.billingclient:billing:2.0.3] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\109982e594e5a2efdaac87080deb8bfd\billing-2.0.3\AndroidManifest.xml:18:13-78
 172            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-172-->[com.android.billingclient:billing:2.0.3] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\109982e594e5a2efdaac87080deb8bfd\billing-2.0.3\AndroidManifest.xml:19:13-96
+172-->[com.android.billingclient:billing:2.0.3] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\109982e594e5a2efdaac87080deb8bfd\billing-2.0.3\AndroidManifest.xml:19:13-96
 173            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-173-->[com.android.billingclient:billing:2.0.3] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\109982e594e5a2efdaac87080deb8bfd\billing-2.0.3\AndroidManifest.xml:20:13-72
+173-->[com.android.billingclient:billing:2.0.3] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\109982e594e5a2efdaac87080deb8bfd\billing-2.0.3\AndroidManifest.xml:20:13-72
 174
 175        <provider
-175-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:23:9-27:43
+175-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:23:9-27:43
 176            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
-176-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:24:13-83
+176-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:24:13-83
 177            android:authorities="com.YourCompany.SkateboardSim.lifecycle-trojan"
-177-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:25:13-68
+177-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:25:13-68
 178            android:exported="false"
-178-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:26:13-37
+178-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:26:13-37
 179            android:multiprocess="true" />
-179-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:27:13-40
+179-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:27:13-40
 180
 181        <activity
-181-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\17bcd587b44a2cac424c24032b1e88fc\play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+181-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\17bcd587b44a2cac424c24032b1e88fc\play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
 182            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-182-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\17bcd587b44a2cac424c24032b1e88fc\play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+182-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\17bcd587b44a2cac424c24032b1e88fc\play-services-base-11.8.0\AndroidManifest.xml:24:13-79
 183            android:exported="false"
-183-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\17bcd587b44a2cac424c24032b1e88fc\play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+183-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\17bcd587b44a2cac424c24032b1e88fc\play-services-base-11.8.0\AndroidManifest.xml:25:13-37
 184            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-184-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\brody\.gradle\caches\transforms-2\files-2.1\17bcd587b44a2cac424c24032b1e88fc\play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+184-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\mikeb\.gradle\caches\transforms-2\files-2.1\17bcd587b44a2cac424c24032b1e88fc\play-services-base-11.8.0\AndroidManifest.xml:26:13-72
 185    </application>
 186
 187</manifest>

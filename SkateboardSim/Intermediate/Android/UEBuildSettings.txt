@@ -1,5 +1,5 @@
-NDKROOT=C:\Users\brody\AppData\Local\Android\Sdk\ndk\21.1.6352462
-ANDROID_HOME=C:\Users\brody\AppData\Local\Android\Sdk
+NDKROOT=C:/Users/mikeb/AppData/Local/Android/Sdk/ndk/21.1.6352462
+ANDROID_HOME=C:/Users/mikeb/AppData/Local/Android/Sdk
 JAVA_HOME=C:\Program Files\Android\Android Studio\jre
 NDKVersion=android-19
 SDKVersion=android-30
@@ -65,5 +65,8 @@ bBundleDensitySplit=True
 bFullScreen=True
 bForceLDLinker=False
 bForceSmallOBBFiles=False
+SDKPath=(Path="C:/Users/mikeb/AppData/Local/Android/Sdk")
+NDKPath=(Path="C:/Users/mikeb/AppData/Local/Android/Sdk/ndk/21.1.6352462")
+JavaPath=(Path="")
 Arch=-armv7
 GPUArch=

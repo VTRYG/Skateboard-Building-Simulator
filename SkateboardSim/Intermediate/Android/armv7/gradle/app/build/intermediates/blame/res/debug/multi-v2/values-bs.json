@@ -4,7 +4,7 @@
             "outputFile": "Z:\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\brody\\.gradle\\caches\\transforms-2\\files-2.1\\17bcd587b44a2cac424c24032b1e88fc\\play-services-base-11.8.0\\res\\values-bs\\values.xml",
+                    "source": "C:\\Users\\mikeb\\.gradle\\caches\\transforms-2\\files-2.1\\17bcd587b44a2cac424c24032b1e88fc\\play-services-base-11.8.0\\res\\values-bs\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\brody\\.gradle\\caches\\transforms-2\\files-2.1\\a43b57c3a36d8afc93f5c789fdd27c54\\play-services-basement-11.8.0\\res\\values-bs\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "199",
-                        "endOffsets": "482"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1255",
-                        "endColumns": "199",
-                        "endOffsets": "1450"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\brody\\.gradle\\caches\\transforms-2\\files-2.1\\f193a451298a132103515b1cc52b39c9\\support-compat-27.1.0\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\mikeb\\.gradle\\caches\\transforms-2\\files-2.1\\f193a451298a132103515b1cc52b39c9\\support-compat-27.1.0\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -52,6 +35,23 @@
                         "startOffsets": "2790",
                         "endColumns": "100",
                         "endOffsets": "2886"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mikeb\\.gradle\\caches\\transforms-2\\files-2.1\\a43b57c3a36d8afc93f5c789fdd27c54\\play-services-basement-11.8.0\\res\\values-bs\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "199",
+                        "endOffsets": "482"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1255",
+                        "endColumns": "199",
+                        "endOffsets": "1450"
                     }
                 }
             ]
