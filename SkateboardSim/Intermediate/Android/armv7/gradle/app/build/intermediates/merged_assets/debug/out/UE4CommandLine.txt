@@ -1,1 +1,1 @@
-../../../SkateboardSim/SkateboardSim.uproject  /Game/PuzzleBP/Maps/PuzzleExampleMap -Messaging -SessionId=0A0EC67D4FE8098F4B88FB9893C015EA -SessionOwner="mike" -SessionName="Launch On Device" -iterative
+../../../SkateboardSim/SkateboardSim.uproject  /Game/PuzzleBP/Maps/PuzzleExampleMap -Messaging -SessionId=0EBC31184DD7F174D9C48FB9BCF8A100 -SessionOwner="mike" -SessionName="Launch On Device" -iterative
