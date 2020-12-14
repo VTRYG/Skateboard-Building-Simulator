@@ -1,4 +1,4 @@
-#Thu Dec 10 18:06:56 AWST 2020
+#Tue Dec 15 02:17:10 AWST 2020
 base.0=Z\:\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
